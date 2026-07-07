@@ -1,4 +1,4 @@
-from backend.resume_reader import extract_resume_text
+from resume_reader import extract_resume_text
 
 SKILLS_LIST = [
     "Python",
