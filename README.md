@@ -22,3 +22,15 @@ An AI-powered Career Copilot that helps students analyze resumes, compare them w
 - Qwen (Local AI Model)
 
 Started: 5 July 2026
+
+## Day 2 Progress
+
+### Features Added
+- Resume PDF Reader
+- Skill Extractor
+- Case-insensitive skill matching
+- Basic GitHub integration
+
+### Status
+✅ Resume text extraction working
+✅ Skills detected successfully
